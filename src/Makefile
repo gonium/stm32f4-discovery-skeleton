@@ -19,6 +19,8 @@
 
 BINARY = main
 
+OBJS = newlib_stubs.o ticks.o
+
 LDSCRIPT = ../stm32f4-discovery.ld
 
 include ../libopencm3.target.mk
