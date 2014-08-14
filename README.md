@@ -11,7 +11,6 @@ Prerequisites
 
 * Install [gcc-arm-embedded](https://launchpad.net/gcc-arm-embedded) and
   make sure the arm-none-eabi-*-commands are in your path
-* Install [st-link](https://github.com/texane/st-link)
 * Install [OpenOCD](http://openocd.sourceforge.net/)
 
 Usage
