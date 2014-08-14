@@ -24,5 +24,10 @@ uint32_t mtime() {
 void systick_setup(int tick_rate) {
     /* clock rate / 1000 to get 1mS interrupt rate */
     systick_set_reload((168000000) / tick_rate);
+	/* See STM32F4 programming manual, p. 231:
+	 * * Bit2: Processor Clock
+	 * * Bit1: Enable interrupt
+	 * * Bit0: Enable the counter
+	 */
     STK_CSR = 0x07;
 }

@@ -70,7 +70,7 @@ static void test_malloc(void) {
 	str[i]=(char)i+'0';
   }
   str[10]='\0';
-  printf("%s\n", str);
+  printf("malloc'ed these values: %s\n", str);
   free(str);
 }
 
