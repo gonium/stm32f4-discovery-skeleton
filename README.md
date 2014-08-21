@@ -21,7 +21,7 @@ The STM32F4 Discovery board is an inexpensive evaluation board for the
 STM32F407VG chips. You might want to keep copies of these documents
 around:
 
-* [RM0090: STM32F4xx Advanced ARM-based 32-bit MCUs Reference Manual](http://www.st.com/stonline/stappl/resourceSelector/app?page=resourceSelector&doctype=REFERENCE_MANUAL&SubClassID=1521)
+* [RM0090: STM32F4xx Advanced ARM-based 32-bit MCUs Reference Manual](http://www.st.com/web/en/resource/technical/document/reference_manual/DM00031020.pdf)
 * [STM32F407xx Technical Datasheet](http://www.st.com/web/en/resource/technical/document/datasheet/DM00037051.pdf)
 * [UM1472: STM32F4 High-Performance Discovery Board User Manual](http://www.st.com/st-web-ui/static/active/en/resource/technical/document/user_manual/DM00039084.pdf)
 
